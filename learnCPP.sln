@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Variables", "Variables\Vari
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "standardVector", "standardVector\standardVector.vcxproj", "{F43B7820-C33D-4C47-90A5-24B43D422126}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "usingHeaderFiles", "usingHeaderFiles\usingHeaderFiles.vcxproj", "{4F118C50-8594-41B9-8047-3EA488D31482}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -27,6 +29,10 @@ Global
 		{F43B7820-C33D-4C47-90A5-24B43D422126}.Debug|x64.Build.0 = Debug|x64
 		{F43B7820-C33D-4C47-90A5-24B43D422126}.Release|x64.ActiveCfg = Release|x64
 		{F43B7820-C33D-4C47-90A5-24B43D422126}.Release|x64.Build.0 = Release|x64
+		{4F118C50-8594-41B9-8047-3EA488D31482}.Debug|x64.ActiveCfg = Debug|x64
+		{4F118C50-8594-41B9-8047-3EA488D31482}.Debug|x64.Build.0 = Debug|x64
+		{4F118C50-8594-41B9-8047-3EA488D31482}.Release|x64.ActiveCfg = Release|x64
+		{4F118C50-8594-41B9-8047-3EA488D31482}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

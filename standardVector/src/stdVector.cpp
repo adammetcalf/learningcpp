@@ -13,7 +13,7 @@ int main()
 	std::vector<std::string> svec;													//defualt initialisation, svec has no elements
 	std::vector<int> ivec;															//default init of integer vector ivec
 	std::vector<int> ivec2{1,2,3};													//list initialisation of vector
-	std::vector<int> ivec2again = ivec2;												//ive2again is a copy of ivec2
+	std::vector<int> ivec2again = ivec2;											//ive2again is a copy of ivec2
 
 
 	//note we can create a specified number of elements
