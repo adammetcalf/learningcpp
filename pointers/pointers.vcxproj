@@ -13,8 +13,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{4f118c50-8594-41b9-8047-3ea488d31482}</ProjectGuid>
-    <RootNamespace>usingHeaderFiles</RootNamespace>
+    <ProjectGuid>{43d6cf55-8790-4818-8abc-1aac73adc5de}</ProjectGuid>
+    <RootNamespace>pointers</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -82,11 +82,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="src\supportingFiles\add.cpp" />
-    <ClCompile Include="src\headerFiles.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="src\supportingFiles\add.h" />
+    <ClCompile Include="src\pointers.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

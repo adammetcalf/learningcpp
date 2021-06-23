@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "standardVector", "standardV
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "usingHeaderFiles", "usingHeaderFiles\usingHeaderFiles.vcxproj", "{4F118C50-8594-41B9-8047-3EA488D31482}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pointers", "pointers\pointers.vcxproj", "{43D6CF55-8790-4818-8ABC-1AAC73ADC5DE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -33,6 +35,10 @@ Global
 		{4F118C50-8594-41B9-8047-3EA488D31482}.Debug|x64.Build.0 = Debug|x64
 		{4F118C50-8594-41B9-8047-3EA488D31482}.Release|x64.ActiveCfg = Release|x64
 		{4F118C50-8594-41B9-8047-3EA488D31482}.Release|x64.Build.0 = Release|x64
+		{43D6CF55-8790-4818-8ABC-1AAC73ADC5DE}.Debug|x64.ActiveCfg = Debug|x64
+		{43D6CF55-8790-4818-8ABC-1AAC73ADC5DE}.Debug|x64.Build.0 = Debug|x64
+		{43D6CF55-8790-4818-8ABC-1AAC73ADC5DE}.Release|x64.ActiveCfg = Release|x64
+		{43D6CF55-8790-4818-8ABC-1AAC73ADC5DE}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
