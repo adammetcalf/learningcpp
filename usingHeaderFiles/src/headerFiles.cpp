@@ -1,9 +1,9 @@
 #include <iostream>
-#include "supportingFiles/add.h"																			//including the header file for the add forward declaration
+#include "supportingFiles/add.h"															//including the header file for the add forward declaration
 
 /*
 * 
-			We use header files to provide forward declarations of files that we intend to use.
+			We use header files to provide forward declarations of types or functions: files that we intend to use.
 
 */
 
