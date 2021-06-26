@@ -17,6 +17,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Arrays", "Arrays\Arrays.vcx
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ArraysPt2", "ArraysPt2\ArraysPt2.vcxproj", "{5360170C-24E0-4456-A022-5434D591DBE0}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cppPrimerChapterOne", "cppPrimerChapterOne\cppPrimerChapterOne.vcxproj", "{0BB3395D-7D54-4C4A-8AAA-E32C4BAC7777}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "doublePendulum", "doublePendulum\doublePendulum.vcxproj", "{477DE870-A129-4A82-80F7-13A601A84278}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +55,14 @@ Global
 		{5360170C-24E0-4456-A022-5434D591DBE0}.Debug|x64.Build.0 = Debug|x64
 		{5360170C-24E0-4456-A022-5434D591DBE0}.Release|x64.ActiveCfg = Release|x64
 		{5360170C-24E0-4456-A022-5434D591DBE0}.Release|x64.Build.0 = Release|x64
+		{0BB3395D-7D54-4C4A-8AAA-E32C4BAC7777}.Debug|x64.ActiveCfg = Debug|x64
+		{0BB3395D-7D54-4C4A-8AAA-E32C4BAC7777}.Debug|x64.Build.0 = Debug|x64
+		{0BB3395D-7D54-4C4A-8AAA-E32C4BAC7777}.Release|x64.ActiveCfg = Release|x64
+		{0BB3395D-7D54-4C4A-8AAA-E32C4BAC7777}.Release|x64.Build.0 = Release|x64
+		{477DE870-A129-4A82-80F7-13A601A84278}.Debug|x64.ActiveCfg = Debug|x64
+		{477DE870-A129-4A82-80F7-13A601A84278}.Debug|x64.Build.0 = Debug|x64
+		{477DE870-A129-4A82-80F7-13A601A84278}.Release|x64.ActiveCfg = Release|x64
+		{477DE870-A129-4A82-80F7-13A601A84278}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
