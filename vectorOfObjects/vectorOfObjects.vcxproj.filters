@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="src\doublePendulum.cpp">
+    <ClCompile Include="src\vectorOfObjects.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
